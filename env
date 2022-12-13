@@ -1,0 +1,12 @@
+DB_CONNECTION=localhost
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=wptest
+DB_USERNAME=root
+DB_PASSWORD=
+
+APP_ENV=production
+APP_KEY=
+APP_DEBUG=false
+APP_LOG_LEVEL=debug
+APP_URL=http://wp-test.local/
