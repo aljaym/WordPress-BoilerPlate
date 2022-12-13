@@ -30,6 +30,8 @@ web/wp-content/themes/*
 
 # ignore specific themes
 wp-content/themes/twenty*/
+wp-content/index.php
+wp-content/thems/index.php
 
 # ignore OS generated files
 ehthumbs.db
